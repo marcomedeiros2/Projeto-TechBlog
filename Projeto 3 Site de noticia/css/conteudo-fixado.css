@@ -1,0 +1,14 @@
+.box-message-eu {
+    background: #727172;
+    width: 400px;
+    padding: 9px;
+    position: fixed;
+    bottom: 0px;
+    left: 1530px;
+    margin-bottom: 15px;
+}
+
+.box-message-eu>h2 {
+    color: yellow;
+    font-size: 20px;
+}
